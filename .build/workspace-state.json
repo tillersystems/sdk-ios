@@ -1,0 +1,1 @@
+{"object": {"artifacts": [{"packageRef": {"identity": "sdk-ios", "kind": "root", "name": "sdk-ios", "path": "/Users/crajanayagam/Projects/izettle/sdk-ios"}, "source": {"path": "iZettleSDK/iZettleSDK.xcframework", "type": "local"}, "targetName": "iZettleSDK"}], "dependencies": []}, "version": 4}
